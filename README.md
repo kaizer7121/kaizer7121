@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=4000&random=false&width=435&lines=I'm+Dao+Huu+Duc+(Full-Stack+Developer).)](https://git.io/typing-svg)
 # 💫 About Me:
-- 🔭 I’m currently working on**Front-end and Back-end Projects**
+- 🔭 I’m currently working on **Front-end and Back-end Projects**
 - 🌱 I’m currently learning **NextJS and Spring Boot**
 - 👯 I’m looking to collaborate on **Front-end and Back-end Dev Projects**
 - 📫 How to reach me: **daohuuduc.910@gmail.com**
