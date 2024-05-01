@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netcompany<br>🌱 I’m currently learning Web development<br>⚡ I'm Driven Full-Stack Developer (2+ years) passionate about crafting user-friendly interfaces with React. Aiming to deep-dive into front-end development while building my path towards becoming a Technical Leader.
+💼 I’m currently working on Netcompany.<br>💻 I’m currently learning Web development.<br>🏢 I'm Driven Full-Stack Developer (2+ years) passionate about crafting user-friendly interfaces with React.<br>🎓 Aiming to deep dive into front-end development while building my path towards becoming a Technical Leader.
 
 
 ## 🌐 Socials:
