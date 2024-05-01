@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NextJS and Spring Boot**
 - 👯 I’m looking to collaborate on **Front-end and Back-end Dev Projects**
 - 📫 How to reach me: **daohuuduc.910@gmail.com**
-- Show ♥ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
+- Show 💙 by giving ⭐ to my Repositories, at least your star could make someone's day 😄
 
 
 ## 💫 About Me:
