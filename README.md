@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=4000&random=false&width=435&lines=I'm+Dao+Huu+Duc+(Full-Stack+Developer).)](https://git.io/typing-svg)
-# 💫 About Me:
+### Hi there 👋
 - 🔭 I’m currently working on **Front-end and Back-end Projects**
 - 🌱 I’m currently learning **NextJS and Spring Boot**
 - 👯 I’m looking to collaborate on **Front-end and Back-end Dev Projects**
 - 📫 How to reach me: **daohuuduc.910@gmail.com**
 
+## 💫 About Me:
+Driven Full-Stack Developer (2+ years) passionate about crafting user-friendly interfaces with React. Aiming to deep-dive into front-end development while building my path towards becoming a Technical Leader.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daohuuduc.910/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry1237/)
