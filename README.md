@@ -48,6 +48,10 @@ Driven Full-Stack Developer passionate about crafting user-friendly interfaces w
 <div align='center'>
   <h3>Back-end</h3>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt=".Net">
+
 </div>
 
 <div align='center'>
