@@ -6,7 +6,7 @@
 - 📫 How to reach me: **daohuuduc.910@gmail.com**
 
 ## 💫 About Me:
-Driven Full-Stack Developer (2+ years) passionate about crafting user-friendly interfaces with React. Aiming to deep-dive into front-end development while building my path towards becoming a Technical Leader.
+Driven Full-Stack Developer passionate about crafting user-friendly interfaces with React. Aiming to deep-dive into front-end development while building my path towards becoming a Technical Leader.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daohuuduc.910/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry1237/)
