@@ -66,6 +66,7 @@ Driven Full-Stack Developer passionate about crafting user-friendly interfaces w
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
+
 # 📊 GitHub Stats:
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=kaizer7121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
