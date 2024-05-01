@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=4000&random=false&width=435&lines=I'm+Dao+Huu+Duc+(Full-Stack+Developer).)](https://git.io/typing-svg)
-### Hi there 👋
+### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=kaizer7121&icon=2&color=1)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on **Front-end and Back-end Projects**
 - 🌱 I’m currently learning **NextJS and Spring Boot**
 - 👯 I’m looking to collaborate on **Front-end and Back-end Dev Projects**
@@ -21,7 +21,5 @@ Driven Full-Stack Developer (2+ years) passionate about crafting user-friendly i
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaizer7121&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=kaizer7121&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
